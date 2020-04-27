@@ -1,1 +1,3 @@
-This is a text
+This is simple Python script will make it seem like your online, and will write a message for the attendance in online classes.
+The basic concept behind this script, and Selenium, is finding a button or textfield via their assigned html classes, id´s, tags and so on, and then clicking it. The Structure of the porgramm is a bit more complicated than it should be. Because Selenium allways creates new browser profiles you simply cant log-in into something and keep being logged in. You can change this with a little code, and thus, that I want this scrips to run on execution, I will keep the code like this for now. 
+
